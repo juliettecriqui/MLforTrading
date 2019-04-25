@@ -8,4 +8,3 @@ an in-depth article by Tim Urban on AI which explains ANI, AGI and ASI
 4. A visual introduction to machine learning: using a real example and straightforward visualisations this article helps us understand how to create a machine learning model to distinguish homes in New York from homes in San Francisco. The model tackles and uses decision trees which are if-then statements to define patterns in the data.
 5. Model Tuning and the Bias-Variance Trade-off (Part 2): explains how a model overly simplistic (bias) or overly complex (variance) both lead to errors hence the need to build models with a balance between the two.
 
-[GitHub](http://github.com)
