@@ -1,8 +1,7 @@
 # MLforTrading
-Stock-Picking strategies:
-We analyse and predict stock prices using various techniques and models: <br>
-- Technical Analysis <br>
-- Linear Regression <br>
+Stock-Picking strategies - we analyse and predict stock prices using various techniques and models:
+- Technical Analysis
+- Linear Regression
 - Random Forest
 - Gradient Boosting
 
